@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "kullanıcı_girişli_uygulama/1.0.0": {
+        "runtime": {
+          "kullanıcı_girişli_uygulama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kullanıcı_girişli_uygulama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
